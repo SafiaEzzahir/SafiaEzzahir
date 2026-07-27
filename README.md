@@ -7,10 +7,10 @@ icl, my github is not that cracked, but i have had it since 2020 (i was 9) so th
 here are my <a href="hackatime.hackclub.com">hackatime</a> stats i guess:
 
 <a href="https://heatmap.shymike.dev?id=1542&timezone=America%2FNew_York&standalone=true" title="Click to view detailed data for each day!">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=1542&timezone=America%2FNew_York&theme=catppuccin_dark">
-<img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=1542&timezone=America%2FNew_York&theme=catppuccin_light">
-</picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=1542&timezone=America%2FNew_York&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=1542&timezone=America%2FNew_York&theme=light">
+    </picture>
 </a>
 
 ![meow](https://github-readme-stats.hackclub.dev/api/wakatime?username=1542&api_domain=hackatime.hackclub.com&theme=catppuccin_latte&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
