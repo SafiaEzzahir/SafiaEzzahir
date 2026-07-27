@@ -15,6 +15,6 @@ here are my <a href="hackatime.hackclub.com">hackatime</a> stats i guess:
 
 ![meow](https://github-readme-stats.hackclub.dev/api/wakatime?username=1542&api_domain=hackatime.hackclub.com&theme=catppuccin_latte&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-my fav things to work on have been [Hack Club's Sunbeam](https://github.com/hackclub/sunbeam),[an among us dupe with @FoxMoss and @simvatch for a hack club hackathon](https://github.com/SafiaEzzahir/midnight-day-1) and [my shack](https://github.com/SafiaEzzahir/safia-s-shack).
+my fav things to work on have been [Hack Club's Sunbeam](https://github.com/hackclub/sunbeam),[an among us dupe with @FoxMoss and @simvatch for a hack club hackathon](https://github.com/SafiaEzzahir/midnight-day-1) and [my shack](https://www.safiaezzahir.com).
 
 see you around!
